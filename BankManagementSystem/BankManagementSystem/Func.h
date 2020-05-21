@@ -1,0 +1,1 @@
+bool chrcmp(char[], char[]);
